@@ -51,6 +51,7 @@
     "php-serialize": "^4.1.1",
     "pusher": "^5.2.0",
     "razorpay": "^2.9.4",
+    "sharp": "^0.33.5",
     "short-uuid": "^5.2.0",
     "validator": "^13.12.0"
   }
